@@ -1,0 +1,6 @@
+@NftCatcherApi_HostAddress = http://localhost:5130
+
+GET {{NftCatcherApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
