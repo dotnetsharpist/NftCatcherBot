@@ -401,4 +401,4 @@ FodyWeavers.xsd
 *.sln.iml
 
 
-src/NftCatcherBot/appsettings.json
+**/appsettings.json
